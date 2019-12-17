@@ -1,0 +1,6 @@
+/Users/fanhao/Desktop/jisuanfa/jisuanfa/bin/Debug/jisuanfa.exe
+/Users/fanhao/Desktop/jisuanfa/jisuanfa/bin/Debug/jisuanfa.pdb
+/Users/fanhao/Desktop/jisuanfa/jisuanfa/obj/x86/Debug/jisuanfa.csprojAssemblyReference.cache
+/Users/fanhao/Desktop/jisuanfa/jisuanfa/obj/x86/Debug/jisuanfa.csproj.CoreCompileInputs.cache
+/Users/fanhao/Desktop/jisuanfa/jisuanfa/obj/x86/Debug/jisuanfa.exe
+/Users/fanhao/Desktop/jisuanfa/jisuanfa/obj/x86/Debug/jisuanfa.pdb
