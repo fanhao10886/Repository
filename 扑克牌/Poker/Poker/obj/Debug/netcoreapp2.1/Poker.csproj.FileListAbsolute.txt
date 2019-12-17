@@ -1,0 +1,11 @@
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/bin/Debug/netcoreapp2.1/Poker.deps.json
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/bin/Debug/netcoreapp2.1/Poker.runtimeconfig.json
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/bin/Debug/netcoreapp2.1/Poker.runtimeconfig.dev.json
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/bin/Debug/netcoreapp2.1/Poker.dll
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/bin/Debug/netcoreapp2.1/Poker.pdb
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/obj/Debug/netcoreapp2.1/Poker.csprojAssemblyReference.cache
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/obj/Debug/netcoreapp2.1/Poker.csproj.CoreCompileInputs.cache
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/obj/Debug/netcoreapp2.1/Poker.AssemblyInfoInputs.cache
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/obj/Debug/netcoreapp2.1/Poker.AssemblyInfo.cs
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/obj/Debug/netcoreapp2.1/Poker.dll
+/Users/fanhao/Desktop/扑克牌/Poker/Poker/obj/Debug/netcoreapp2.1/Poker.pdb
