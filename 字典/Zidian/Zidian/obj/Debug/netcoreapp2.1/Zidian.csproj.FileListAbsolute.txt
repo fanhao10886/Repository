@@ -1,0 +1,11 @@
+/Users/fanhao/Desktop/Zidian/Zidian/bin/Debug/netcoreapp2.1/Zidian.deps.json
+/Users/fanhao/Desktop/Zidian/Zidian/bin/Debug/netcoreapp2.1/Zidian.runtimeconfig.json
+/Users/fanhao/Desktop/Zidian/Zidian/bin/Debug/netcoreapp2.1/Zidian.runtimeconfig.dev.json
+/Users/fanhao/Desktop/Zidian/Zidian/bin/Debug/netcoreapp2.1/Zidian.dll
+/Users/fanhao/Desktop/Zidian/Zidian/bin/Debug/netcoreapp2.1/Zidian.pdb
+/Users/fanhao/Desktop/Zidian/Zidian/obj/Debug/netcoreapp2.1/Zidian.csprojAssemblyReference.cache
+/Users/fanhao/Desktop/Zidian/Zidian/obj/Debug/netcoreapp2.1/Zidian.csproj.CoreCompileInputs.cache
+/Users/fanhao/Desktop/Zidian/Zidian/obj/Debug/netcoreapp2.1/Zidian.AssemblyInfoInputs.cache
+/Users/fanhao/Desktop/Zidian/Zidian/obj/Debug/netcoreapp2.1/Zidian.AssemblyInfo.cs
+/Users/fanhao/Desktop/Zidian/Zidian/obj/Debug/netcoreapp2.1/Zidian.dll
+/Users/fanhao/Desktop/Zidian/Zidian/obj/Debug/netcoreapp2.1/Zidian.pdb
